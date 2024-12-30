@@ -1,0 +1,68 @@
+{
+  "position": {
+    "x": 20.322002,
+    "y": -145.70743,
+    "z": 15.681789
+  },
+  "inventory": {
+    "items": [
+      {
+        "blockType": 1,
+        "amount": 64
+      },
+      {
+        "blockType": 2,
+        "amount": 64
+      },
+      {
+        "blockType": 3,
+        "amount": 64
+      },
+      {
+        "blockType": 1,
+        "amount": 39
+      },
+      {
+        "blockType": 2,
+        "amount": 64
+      },
+      {
+        "blockType": 3,
+        "amount": 4
+      },
+      {
+        "blockType": 2,
+        "amount": 19
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
